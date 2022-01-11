@@ -33,3 +33,5 @@ Atenderei ao pedido de envio de cópia deste arquivo PDF a qualquer pessoa que n
   - `Date: Fri, 7 Jan 2022 10:03:35 -0300`
   - `Date: Fri, 7 Jan 2022 10:15:45 -0300`
   - `Date: Fri, 7 Jan 2022 10:16:16 -0300`
+- Um sexto email, de subject "Oposição à contribuição assistencial (com aviso de recebimento)" foi enviado a sindpd@sindpd.org.br com cópia para outros 7 destinatários + 1 destinatário oculto
+  - `Date: Tue, 11 Jan 2022 12:50:05 -0300`
