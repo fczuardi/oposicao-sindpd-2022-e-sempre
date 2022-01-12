@@ -8,7 +8,7 @@ Eu, Fabricio Zuardi, me oponho à contribuição assistencial e não autorizo o 
 - Eu, Fabricio Campos Zuardi, sou o autor deste texto pois sou o dono da conta `fczuardi` no github.com e o sistema associa a escrita deste documento a esta conta.
 - Eu, Fabricio Campos Zuardi, sou também o dono da conta `fczuardi` no Twitter, onde deixei mensagens públicas de repúdio ao SINDPD como esta: https://twitter.com/fczuardi/status/1479207414973009926
 - Eu, Fabricio Campos Zuardi, enviei via carta registrada, ~~pelo serviço https://cartacerta.com/product/enviar-carta-online-ate-14-paginas/~~ na agência dos Correios do centro de São Carlos, com aviso de recebimento e código de rastreio `BR499935152BR`
-- Abri 4 tickets no sistema interno da empresa anexando fotos do envio desta carta registrada: `5637458`, `5637453`, `5637450`, `5637437`
+- Abri 4 tickets no sistema interno da empresa anexando fotos do envio desta carta registrada: `5637458`, `5637453`, `5637450`, `5637437` e `5685259`
 - O conteúdo desta carta possui Hash resultante da função sha256 igual a `95d270b90622bfe31adef2f677e779d405f7e96d687c6ce5de4579db2f14154c`
 
 Para conferir o conteúdo da carta, tendo em mãos o arquivo `Copy of Modelo Oposição ao SINDPD - SP (versão PNC FCZ).pdf` digite o seguinte comando em uma máquina Linux ou similar:
